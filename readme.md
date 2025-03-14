@@ -7,3 +7,7 @@ Préalable. Création d'un repo distant sur la plateforme
 3 . on initialiser ce dossier classique, comme un repo local avec la commande  
 ```git init```    
 Cette commande entraine la création d'un sous répertoire .git, notre dossier "classique"  
+
+Mon image
+
+![](img/commit.png)
